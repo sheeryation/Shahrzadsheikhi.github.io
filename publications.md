@@ -7,7 +7,7 @@ title: Publications | Shahrzad Sheikhi
 
 ### 📚 Peer-Reviewed Papers
 * **First Author**, "GRB 220101A Black Hole Analysis," *Marcel Grossmann Journal* (2024).
-*
+
 
 ### 🎤 Selected International Talks
 * **International Symposium of High Energy Physics (ISHEP)**, Antalya, Turkey (2024).
