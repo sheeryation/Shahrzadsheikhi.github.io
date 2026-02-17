@@ -17,4 +17,4 @@ title: Hobbies | Shahrzad Sheikhi
 [cite_start]I have lived in different cities and countries since I was 18 to experience diverse cultures[cite: 14]. I also enjoy **soccer** and **dancing** to stay active and creative.
 
 ---
-**[🏠 Home](index) | [🔭 Research](research) | [📄 CV](cv)**
+**[🏠 Home](index) | [🔭 Research](research) | [📚 Publications](publications) | [🎨 Hobbies](hobbies) | [📄 CV](cv) | [✉️ Contact](contact)**
